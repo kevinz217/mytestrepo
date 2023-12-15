@@ -8,4 +8,5 @@ public class NumberOperation {
     public void sayNumber(int num) {
         System.out.println("The number " + num + " is very cool");
     }
+
 }
