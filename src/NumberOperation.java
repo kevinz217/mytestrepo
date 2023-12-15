@@ -9,7 +9,12 @@ public class NumberOperation {
         System.out.println("The number " + num + " is very cool");
     }
 
+    public void partner1Method() {
+        System.out.println("Hooray!");
+    }
+
     public int multiplyBy2(int num) {
         return num * 2;
     }
+
 }
