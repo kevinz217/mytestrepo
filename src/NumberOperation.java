@@ -9,4 +9,7 @@ public class NumberOperation {
         System.out.println("The number " + num + " is very cool");
     }
 
+    public int multiplyBy2(int num) {
+        return num * 2;
+    }
 }
